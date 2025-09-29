@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Mario-badillo/Mario-badillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -  📫 Contact Info section : you can reach me by email: Badillomario1801@gmail.com or my linkedin account: www.linkedin.com/in/mario-badillo-594944383 :)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
